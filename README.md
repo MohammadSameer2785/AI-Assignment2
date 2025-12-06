@@ -1,1 +1,1 @@
-# AI-Assignment2
+# ai-Assignment2
